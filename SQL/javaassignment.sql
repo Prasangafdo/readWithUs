@@ -25,6 +25,9 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `admin`
 --
+CREATE DATABASE `javaassignment`;
+
+USE `javaassignment`;
 
 CREATE TABLE IF NOT EXISTS `admin` (
   `Username` varchar(20) NOT NULL,
